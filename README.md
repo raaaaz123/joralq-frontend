@@ -6,7 +6,7 @@ The browser only talks to Supabase for sign-up, sign-in and token refresh. Every
 
 ## Setup
 
-Requirements: Node 20+, and the backend running (see its README).
+Requirements: Node 22+, and the backend running (see its README).
 
 ```bash
 cp .env.example .env.local   # fill in values, see below

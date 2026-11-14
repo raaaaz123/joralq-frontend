@@ -10,7 +10,7 @@ export function Logo() {
     <span className="flex items-center gap-2 font-bold tracking-tight">
       <span className="grid h-8 w-8 place-items-center rounded-lg bg-ink text-sm text-white">J</span>
       <span>
-        joralq<span className="text-brand">.ai</span>
+        JoraIQ<span className="text-brand">.AI</span>
       </span>
     </span>
   );

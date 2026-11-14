@@ -1,6 +1,6 @@
-# joralq.ai frontend
+# JoraIQ.AI frontend
 
-Next.js 15 (App Router), React 19, TypeScript and Tailwind CSS 4. Teacher and student UIs for joralq.ai.
+Next.js 15 (App Router), React 19, TypeScript and Tailwind CSS 4. Teacher and student UIs for JoraIQ.AI.
 
 The browser only talks to Supabase for sign-up, sign-in and token refresh. Every quiz, assignment, submission and analytics call goes to the NestJS API in [joralq-backend](https://github.com/raaaaz123/joralq-backend), which has the full architecture, data model, API reference and database setup.
 

@@ -4,7 +4,7 @@ import { AuthProvider } from '@/lib/auth';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Quizly · Learn, practice, measure',
+  title: 'joralq.ai · Learn, practice, measure',
   description: 'Quizzes for teachers and students, with live analytics and leaderboards.',
 };
 

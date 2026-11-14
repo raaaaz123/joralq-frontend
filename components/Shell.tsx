@@ -8,9 +8,9 @@ import { Badge, Button } from './ui';
 export function Logo() {
   return (
     <span className="flex items-center gap-2 font-bold tracking-tight">
-      <span className="grid h-8 w-8 place-items-center rounded-lg bg-ink text-sm text-white">Q</span>
+      <span className="grid h-8 w-8 place-items-center rounded-lg bg-ink text-sm text-white">J</span>
       <span>
-        Quizly<span className="text-brand">.</span>
+        joralq<span className="text-brand">.ai</span>
       </span>
     </span>
   );
